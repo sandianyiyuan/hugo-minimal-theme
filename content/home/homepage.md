@@ -7,7 +7,7 @@ widget: blank # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 
-title: '👋 Hollie Beau is the Chief Data Officer at Tidbit Games in Shanghai.'
+title: '👋 Hollie 很高兴认识你.'
 subtitle: ''
 
 design:
@@ -32,13 +32,13 @@ advanced:
   css_class: fullscreen
 ---
 
-## My Mission
+## 我的愿景
 
-Use this area to speak to your mission. Maecenas a varius odio egestas auctor. Praesent facilisis, ex a gravida ultricies, quam sed magna placerat eros, et vehicula lectus ligula id dui. Aliquam uto cursus velit ut eros lorem ipsum ullamcorper iaculis.
+哈哈和哈
 
 ## Specialties
 
-Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
+哈哈和哈
 
 ## Experience
 
@@ -46,27 +46,24 @@ Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
 
 #### Chief Data Officer • Jan 2015 - Current • Shanghai
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
+哈哈和哈
 ### AI Soup
 
 #### Research Manager • Jan 2010 - Jan 2015 • Beijing
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
+哈哈和哈
 ## Education
 
 ### Tsinghua University
 
 #### PhD AI • Jan 2005 - Jan 2010 • Beijing
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
+哈哈和哈
 ## Get in Touch
 
 [{{< icon name="envelope" pack="fas" >}}Email](mailto:me@example.com)  
-[{{< icon name="twitter" pack="fab" >}}Twitter](https://twitter.com/wowchemy)  
-{{< icon name="weixin" pack="fab" >}}微信用户名
+[{{< icon name="twitter" pack="fab" >}}Twitter](http://www.sdyy.host)  
+{{< icon name="weixin" pack="fab" >}}三点一圆
 
 ## Credits
 
